@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tumingguang-svg.github.io/aimakevideo-prompt-cookbook/sitemap.xml
