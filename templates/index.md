@@ -24,4 +24,4 @@
 
 ---
 
-[← 回到首页](../README.md)
+[积分成本计算器](../calculator.html) · [← 回到首页](../README.md)

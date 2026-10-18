@@ -1,5 +1,7 @@
 # 积分与成本
 
+> 懒人版：打开 [积分成本计算器](calculator.html)，选模板和档位直接出价。
+
 所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
 
 ## 一、每个模板一条视频要多少积分
@@ -48,4 +50,4 @@
 
 ---
 
-[10 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
+[积分成本计算器](calculator.html) · [10 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)

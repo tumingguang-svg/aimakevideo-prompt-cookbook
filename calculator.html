@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>积分成本计算器 — aiMakeVideo 模板</title>
+<meta name="description" content="算清楚一条 AI 视频要花多少积分、折合多少美元、一个积分包能跑几条。数据来自 aiMakeVideo 各模板页面，2026-10-18 核对。">
+<style>
+  :root {
+    --bg: #0f1115; --card: #171a21; --line: #262b35;
+    --fg: #e8eaed; --dim: #9aa3b2; --accent: #7c5cff; --good: #35d07f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    padding: 32px 20px 80px;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1 { font-size: 28px; margin: 0 0 8px; letter-spacing: -0.02em; }
+  .sub { color: var(--dim); margin: 0 0 28px; font-size: 15px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px; }
+  .controls { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 20px; }
+  @media (max-width: 640px) { .controls { grid-template-columns: 1fr; } }
+  label { display: block; font-size: 13px; color: var(--dim); margin-bottom: 6px; }
+  select {
+    width: 100%; padding: 10px 12px; border-radius: 9px; border: 1px solid var(--line);
+    background: #101319; color: var(--fg); font-size: 15px;
+  }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 8px 0 4px; }
+  @media (max-width: 720px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  .stat { background: #101319; border: 1px solid var(--line); border-radius: 11px; padding: 14px; }
+  .stat .k { font-size: 12px; color: var(--dim); margin-bottom: 4px; }
+  .stat .v { font-size: 22px; font-weight: 600; letter-spacing: -0.01em; }
+  .stat .v small { font-size: 13px; font-weight: 400; color: var(--dim); }
+  .note { color: var(--dim); font-size: 13px; margin-top: 14px; }
+  table { width: 100%; border-collapse: collapse; margin-top: 12px; font-size: 14px; }
+  th, td { padding: 9px 8px; text-align: right; border-bottom: 1px solid var(--line); }
+  th:first-child, td:first-child { text-align: left; }
+  th { color: var(--dim); font-weight: 500; font-size: 12px; text-transform: none; }
+  tr.hl td { background: rgba(124, 92, 255, .09); }
+  .footer { margin-top: 36px; color: var(--dim); font-size: 13px; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 999px; background: rgba(53,208,127,.12); color: var(--good); font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>积分成本计算器</h1>
+  <p class="sub">选模板、选档位、选积分包，立刻知道一条要多少积分、折合多少钱、一个包能跑几条。<br>
+  数据来自各模板页面，<strong>2026-10-18 核对</strong>；价格会变，下单前以 <a href="https://aimakevideo.com/pricing">定价页</a> 为准。</p>
+
+  <div class="card">
+    <div class="controls">
+      <div>
+        <label for="tpl">模板</label>
+        <select id="tpl"></select>
+      </div>
+      <div>
+        <label for="q">清晰度</label>
+        <select id="q"></select>
+      </div>
+      <div>
+        <label for="pack">积分包</label>
+        <select id="pack"></select>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="stat"><div class="k">单条消耗</div><div class="v" id="credits">—</div></div>
+      <div class="stat"><div class="k">折合美元（上限）</div><div class="v" id="usd">—</div></div>
+      <div class="stat"><div class="k">一个包能跑</div><div class="v" id="count">—</div></div>
+      <div class="stat"><div class="k">每秒成本</div><div class="v" id="persec">—</div></div>
+    </div>
+
+    <p class="note" id="note"></p>
+  </div>
+
+  <h2 style="font-size:18px;margin:32px 0 6px">同一个积分包，各模板分别能跑几条</h2>
+  <div class="card" style="padding:8px 16px 16px">
+    <table>
+      <thead><tr><th>模板</th><th>时长</th><th>单条积分</th><th>单条美元</th><th>整包可跑</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+
+  <p class="footer">
+    <span class="badge">dofollow 页面</span><br><br>
+    没有订阅费陷阱：积分包一次性购买、180 天有效、不自动续费。生成失败会退回积分。<br>
+    相关内容：<a href="./">首页</a> · <a href="templates/">10 个模板一览</a> · <a href="credits.html">积分与成本</a> · <a href="guide/photo-prep.html">照片准备</a>
+  </p>
+</div>
+
+<script>
+const T = [
+  { id: 'bulin-47',          name: 'Bulin 47',          sec: 15, c: { 480: 465, 720: 1023 } },
+  { id: 'burning-bridges',   name: 'Burning Bridges',   sec: 15, c: { 480: 465, 720: 1023 } },
+  { id: 'crazy-frog',        name: 'Crazy Frog',        sec: 15, c: { 720: 650 } },
+  { id: 'hotel-lobby',       name: 'Hotel Lobby',       sec: 10, c: { 480: 310, 720: 682 } },
+  { id: 'migos',             name: 'Migos',             sec: 10, c: { 480: 310, 720: 682 } },
+  { id: 'ozil-goal',         name: 'Ozil Goal',         sec: 15, c: { 720: 800 } },
+  { id: 'raindance',         name: 'Raindance',         sec: 8,  c: { 480: 328, 720: 626 } },
+  { id: 'rumpelstiltskin',   name: 'Rumpelstiltskin',   sec: 8,  c: { 480: 328, 720: 626 } },
+  { id: 'stereo-love-funk',  name: 'Stereo Love Funk',  sec: 15, c: { 720: 900 } },
+  { id: 'zombie',            name: 'Zombie',            sec: 12, c: { 480: 372, 720: 819 } }
+];
+const PACKS = [
+  { credits: 900,   usd: 9.90 },
+  { credits: 3000,  usd: 29.90 },
+  { credits: 5500,  usd: 49.90 },
+  { credits: 12000, usd: 99.90 }
+];
+
+const $ = (s) => document.querySelector(s);
+const tplSel = $('#tpl'), qSel = $('#q'), packSel = $('#pack');
+
+T.forEach((t) => tplSel.add(new Option(t.name + ' · ' + t.sec + ' 秒', t.id)));
+PACKS.forEach((p, i) => packSel.add(new Option(p.credits.toLocaleString() + ' 积分 / $' + p.usd.toFixed(2), i)));
+
+function renderQuality() {
+  const t = T.find((x) => x.id === tplSel.value);
+  const prev = qSel.value;
+  qSel.innerHTML = '';
+  Object.keys(t.c).forEach((k) => qSel.add(new Option(k + 'p', k)));
+  qSel.value = t.c[prev] ? prev : Object.keys(t.c)[0];
+}
+
+function money(n) {
+  return '$' + n.toFixed(2);
+}
+
+function render() {
+  const t = T.find((x) => x.id === tplSel.value);
+  const q = qSel.value;
+  const p = PACKS[Number(packSel.value)];
+  const credits = t.c[q];
+  if (!credits) return;
+
+  const rate = p.usd / p.credits;
+  const usd = credits * rate;
+  const count = Math.floor(p.credits / credits);
+  const perSec = usd / t.sec;
+  const leftover = p.credits - count * credits;
+
+  $('#credits').innerHTML = credits.toLocaleString() + ' <small>积分</small>';
+  $('#usd').textContent = money(usd);
+  $('#count').innerHTML = count + ' <small>条</small>';
+  $('#persec').textContent = '$' + perSec.toFixed(2);
+
+  $('#note').innerHTML =
+    '按 ' + p.credits.toLocaleString() + ' 积分 / $' + p.usd.toFixed(2) + '（$' + rate.toFixed(5) + ' 每积分）折算。' +
+    '一个包跑 ' + count + ' 条后剩 ' + leftover.toLocaleString() + ' 积分。' +
+    (q === '480' ? '想更高画质，换成 720p 看差价。' : '先用 480p 试，确认效果再上 720p 最省。');
+
+  const rows = $('#rows');
+  rows.innerHTML = '';
+  T.forEach((x) => {
+    const c = x.c[q];
+    if (!c) {
+      rows.insertAdjacentHTML('beforeend',
+        '<tr><td>' + x.name + '</td><td>' + x.sec + ' 秒</td><td colspan="3" style="color:#6b7280">该模板无 ' + q + 'p 档</td></tr>');
+      return;
+    }
+    const cls = x.id === t.id ? ' class="hl"' : '';
+    rows.insertAdjacentHTML('beforeend',
+      '<tr' + cls + '><td>' + x.name + '</td><td>' + x.sec + ' 秒</td><td>' + c.toLocaleString() +
+      '</td><td>' + money(c * rate) + '</td><td>' + Math.floor(p.credits / c) + ' 条</td></tr>');
+  });
+}
+
+tplSel.addEventListener('change', () => { renderQuality(); render(); });
+qSel.addEventListener('change', render);
+packSel.addEventListener('change', render);
+renderQuality();
+render();
+</script>
+</body>
+</html>

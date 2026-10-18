@@ -8,8 +8,11 @@
 
 | 内容 | 说明 |
 |---|---|
+| [积分成本计算器](calculator.html) | 选模板 / 档位 / 积分包，实时算出单条美元价、整包能跑几条 |
 | [10 个模板一览](templates/index.md) | 输入、时长、画幅、480p/720p 各多少积分，一张表看完 |
 | [提示词写法拆解](guide/prompt-patterns.md) | 把 showcase 里的真实提示词拆成 8 段结构 + 2 个可套用的骨架 |
+| [提示词积木](guide/prompt-blocks.md) | 7 类可复用片段，每块都标了原文出处，可以自由拼 |
+| [术语表](glossary.md) | 积分、画幅、首尾帧、模板与模型……最容易搞混的十几个词 |
 | [照片准备](guide/photo-prep.md) | 10 个模板共用的硬性要求，以及能显著提高成功率的拍法 |
 | [积分与成本](credits.md) | 每个模板折算成美元是多少，先跑哪档最省 |
 | [文生视频提示词](showcase/text-to-video.md) | 6 条真实示例，最长 215 词 |
@@ -33,7 +36,7 @@
 ## 先读哪一页
 
 - **第一次用**：先看 [照片准备](guide/photo-prep.md)，80% 的废片是因为照片不合格
-- **想知道花多少钱**：[积分与成本](credits.md)，里面把积分折算成了美元上限
+- **想知道花多少钱**：直接用 [积分成本计算器](calculator.html)，或者看 [积分与成本](credits.md) 的完整表
 - **想自己写提示词**：[提示词写法拆解](guide/prompt-patterns.md)，有两条能直接填空的骨架
 - **想抄现成的**：[文生视频](showcase/text-to-video.md) / [文生图](showcase/text-to-image.md)
 
