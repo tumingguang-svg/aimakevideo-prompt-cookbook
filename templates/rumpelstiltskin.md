@@ -39,6 +39,12 @@
 
 → [在 aiMakeVideo 打开 Rumpelstiltskin 模板](https://aimakevideo.com/rumpelstiltskin-ai)
 
+## 相关模板
+
+- [Raindance](raindance.md) —— 8 秒独舞或双人舞
+- [Stereo Love Funk](stereo-love-funk.md) —— 群舞版，最多 9 张照片
+- [Bulin 47](bulin-47.md) —— 单人照片做表演的另一种
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

@@ -44,6 +44,13 @@
 - 照片质量直接决定像不像
 - 动作和场景不会因为你的照片而改变（这是设计如此，不是缺陷）
 
+
+## 这些模板都用这份照片要求
+
+- [Bulin 47](../templates/bulin-47.md) —— 1 张照片，正脸完全可见
+- [Raindance](../templates/raindance.md) —— 1–2 张照片，独舞或双人
+- [Stereo Love Funk](../templates/stereo-love-funk.md) —— 最多 9 张照片，人数越多要求越高
+
 ---
 
 [10 个模板一览](../templates/index.md) · [积分与成本](../credits.md) · [回到首页](../README.md)

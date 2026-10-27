@@ -118,6 +118,12 @@ No dialogue or subtitles. [声音 1], [N] 次 [声音 2], [声音 3].
 3. **一条否定都不写** —— 模型会挑最省力的方式糊过去
 4. **声音写"加一些氛围音"** —— 应该逐项点名，而且数量要和对白/动作对上
 
+
+## 用这些积木拼出来的原文
+
+- [文生视频提示词原文](../showcase/text-to-video.md) —— 6 条，最长 215 词
+- [文生图提示词原文](../showcase/text-to-image.md) —— 6 条，全部 18–23 词
+
 ---
 
 [文生视频原文](../showcase/text-to-video.md) · [写法拆解](prompt-patterns.md) · [回到首页](../README.md)

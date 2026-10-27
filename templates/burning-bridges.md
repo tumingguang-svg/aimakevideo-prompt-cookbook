@@ -37,6 +37,12 @@
 
 → [在 aiMakeVideo 打开 Burning Bridges 模板](https://aimakevideo.com/burning-bridges-ai)
 
+## 相关模板
+
+- [Zombie](zombie.md) —— 12 秒剧情
+- [Stereo Love Funk](stereo-love-funk.md) —— 多人同框，最多 9 张
+- [Ozil Goal](ozil-goal.md) —— 单人照片做动作镜头
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

@@ -39,6 +39,12 @@
 
 → [在 aiMakeVideo 打开 Migos 模板](https://aimakevideo.com/migos-ai)
 
+## 相关模板
+
+- [Bulin 47](bulin-47.md) —— 单人 freestyle rap
+- [Hotel Lobby](hotel-lobby.md) —— 双人 rap 对唱，站在橙色电话亭里
+- [Zombie](zombie.md) —— 双人互动，12 秒剧情
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

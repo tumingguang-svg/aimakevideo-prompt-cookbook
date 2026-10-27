@@ -39,6 +39,12 @@
 
 → [在 aiMakeVideo 打开 Hotel Lobby 模板](https://aimakevideo.com/hotel-lobby-ai)
 
+## 相关模板
+
+- [Bulin 47](bulin-47.md) —— 单人 freestyle rap，一张照片
+- [Migos](migos.md) —— 同为双人 rap，一问一答
+- [Zombie](zombie.md) —— 双人互动，但拍的是 12 秒剧情
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

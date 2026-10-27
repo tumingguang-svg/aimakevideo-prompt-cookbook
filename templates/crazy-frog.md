@@ -38,6 +38,12 @@
 
 → [在 aiMakeVideo 打开 Crazy Frog 模板](https://aimakevideo.com/crazy-frog-ai)
 
+## 相关模板
+
+- [Ozil Goal](ozil-goal.md) —— 足球进球，15 秒
+- [Raindance](raindance.md) —— 8 秒舞蹈
+- [Zombie](zombie.md) —— 12 秒剧情
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

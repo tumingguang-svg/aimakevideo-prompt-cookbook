@@ -22,16 +22,16 @@
 
 | 模板 | 输入 | 时长 | 480p | 720p |
 |---|---|---|---|---|
-| Bulin 47 | 1 张照片 | 15 秒 | 465 | 1023 |
-| Burning Bridges | 1 张照片 | 15 秒 | 465 | 1023 |
-| Crazy Frog | 1 张照片 | 15 秒 | — | 650 |
-| Hotel Lobby | 2 张照片 | 10 秒 | 310 | 682 |
-| Migos | 2 张照片 | 10 秒 | 310 | 682 |
-| Ozil Goal | 1 张照片 | 15 秒 | — | 800 |
-| Raindance | 1–2 张照片 | 8 秒 | 328 | 626 |
-| Rumpelstiltskin | 1 张照片 | 8 秒 | 328 | 626 |
-| Stereo Love Funk | 最多 9 张 | 15 秒 | — | 900 |
-| Zombie | 2 张照片 | 12 秒 | 372 | 819 |
+| [Bulin 47](templates/bulin-47.md) | 1 张照片 | 15 秒 | 465 | 1023 |
+| [Burning Bridges](templates/burning-bridges.md) | 1 张照片 | 15 秒 | 465 | 1023 |
+| [Crazy Frog](templates/crazy-frog.md) | 1 张照片 | 15 秒 | — | 650 |
+| [Hotel Lobby](templates/hotel-lobby.md) | 2 张照片 | 10 秒 | 310 | 682 |
+| [Migos](templates/migos.md) | 2 张照片 | 10 秒 | 310 | 682 |
+| [Ozil Goal](templates/ozil-goal.md) | 1 张照片 | 15 秒 | — | 800 |
+| [Raindance](templates/raindance.md) | 1–2 张照片 | 8 秒 | 328 | 626 |
+| [Rumpelstiltskin](templates/rumpelstiltskin.md) | 1 张照片 | 8 秒 | 328 | 626 |
+| [Stereo Love Funk](templates/stereo-love-funk.md) | 最多 9 张 | 15 秒 | — | 900 |
+| [Zombie](templates/zombie.md) | 2 张照片 | 12 秒 | 372 | 819 |
 
 ## 先读哪一页
 

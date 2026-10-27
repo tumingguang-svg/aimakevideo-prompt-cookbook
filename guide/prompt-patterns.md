@@ -161,6 +161,12 @@ No dialogue or subtitles. [声音清单，逐项点名].
 2. **否定句的密度决定稳定性。** 四条长提示词每一条都**恰好 4 处否定**（3 个 `No …` + 1 个 `Never …`），一处不多一处不少。
 3. **数量和顺序必须显式写。** `Exactly 5`、`construct 5 is`、`Rotate A, B, C` —— 模型不会自己安排节奏。
 
+
+## 这些模式在原文里的样子
+
+- [文生视频提示词原文](../showcase/text-to-video.md) —— 6 条，最长 215 词
+- [文生图提示词原文](../showcase/text-to-image.md) —— 6 条，全部 18–23 词
+
 ---
 
 [文生视频提示词原文](../showcase/text-to-video.md) · [文生图提示词原文](../showcase/text-to-image.md) · [回到首页](../README.md)

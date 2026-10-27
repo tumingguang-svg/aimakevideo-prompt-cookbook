@@ -37,6 +37,12 @@
 
 → [在 aiMakeVideo 打开 Zombie 模板](https://aimakevideo.com/zombie-ai)
 
+## 相关模板
+
+- [Burning Bridges](burning-bridges.md) —— 派对场景，15 秒
+- [Hotel Lobby](hotel-lobby.md) —— 双人互动，rap 对唱
+- [Migos](migos.md) —— 双人互动，一问一答
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

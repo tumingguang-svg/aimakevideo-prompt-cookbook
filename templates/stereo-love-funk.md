@@ -36,6 +36,12 @@
 
 → [在 aiMakeVideo 打开 Stereo Love Funk 模板](https://aimakevideo.com/stereo-love-funk-ai)
 
+## 相关模板
+
+- [Raindance](raindance.md) —— 8 秒短舞蹈
+- [Rumpelstiltskin](rumpelstiltskin.md) —— 踮脚舞，8 秒
+- [Burning Bridges](burning-bridges.md) —— 多人派对场景
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)

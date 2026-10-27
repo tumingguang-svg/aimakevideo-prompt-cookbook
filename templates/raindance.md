@@ -39,6 +39,12 @@
 
 → [在 aiMakeVideo 打开 Raindance 模板](https://aimakevideo.com/raindance-ai)
 
+## 相关模板
+
+- [Rumpelstiltskin](rumpelstiltskin.md) —— 同样是 8 秒短舞蹈
+- [Stereo Love Funk](stereo-love-funk.md) —— 多人 Funk 群舞
+- [Crazy Frog](crazy-frog.md) —— 同样以身体动作为主的镜头
+
 ---
 
-[← 回到模板总览](index.md) · [积分怎么算](../credits.md)
+[← 回到模板总览](index.md) · [积分计算器](../calculator.html) · [照片准备指南](../guide/photo-prep.md)
