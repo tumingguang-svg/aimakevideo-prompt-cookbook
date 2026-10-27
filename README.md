@@ -39,6 +39,7 @@
 - **想知道花多少钱**：直接用 [积分成本计算器](calculator.html)，或者看 [积分与成本](credits.md) 的完整表
 - **想自己写提示词**：[提示词写法拆解](guide/prompt-patterns.md)，有两条能直接填空的骨架
 - **想抄现成的**：[文生视频](showcase/text-to-video.md) / [文生图](showcase/text-to-image.md)
+- **想先定镜头节奏再动手**：[Before the first frame](https://milostu.blogspot.com/2026/10/before-first-frame-how-180k-view-ai.html) —— 为什么 AI 视频总在切镜头，以及怎么把排片表写进提示词
 
 ## 三个从数据里发现的事实
 
