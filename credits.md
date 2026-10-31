@@ -2,7 +2,7 @@
 
 > 懒人版：打开 [积分成本计算器](calculator.html)，选模板和档位直接出价。
 
-所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**；积分包档位和新增的 3 个模板核对于 2026-10-31。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
+所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**；积分包档位和 10 月 31 日新增的 7 个模板核对于 2026-10-31。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
 
 ## 一、每个模板一条视频要多少积分
 
@@ -11,6 +11,8 @@
 | Bulin 47 | 15 秒 | 465 | 1023 |
 | Burning Bridges | 15 秒 | 465 | 1023 |
 | Crazy Frog | 15 秒 | — | 650 |
+| Dime Dime Baby | 8 秒 | — | 550 |
+| Gangnam Style | 15 秒 / 19 秒 | — | 900 / 1350 |
 | Grease Dance | 15 秒 / 23 秒 | — | 800 / 1200 |
 | Hotel Lobby | 10 秒 | 310 | 682 |
 | Migos | 10 秒 | 310 | 682 |
@@ -20,6 +22,8 @@
 | Stereo Love Funk | 15 秒 | — | 900（不论几个人） |
 | Thriller Dance | 15 秒 | — | 800 |
 | Tiny Desk | 19 秒 | — | 900（1080p：1350） |
+| Toc Toc | 10 秒 | — | 600 |
+| WYW My Sweetie | 19 秒 | — | 900 |
 | Zombie | 12 秒 | 372 | 819 |
 
 ## 二、折算成钱（按最小积分包算）
@@ -53,4 +57,4 @@
 
 ---
 
-[积分成本计算器](calculator.html) · [13 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
+[积分成本计算器](calculator.html) · [17 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
