@@ -1,0 +1,16 @@
+# Local secrets and data (never commit)
+.env
+.env.*
+.dev.vars
+data/*.db
+
+# Build output and dependencies
+_site/
+.jekyll-cache/
+node_modules/
+.output/
+.nitro/
+
+# OS / editor junk
+.DS_Store
+*.log

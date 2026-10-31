@@ -11,12 +11,15 @@
 | Bulin 47 | 15 秒 | 465 | 1023 |
 | Burning Bridges | 15 秒 | 465 | 1023 |
 | Crazy Frog | 15 秒 | — | 650 |
+| Grease Dance | 15 秒 / 23 秒 | — | 800 / 1200 |
 | Hotel Lobby | 10 秒 | 310 | 682 |
 | Migos | 10 秒 | 310 | 682 |
 | Ozil Goal | 15 秒 | — | 800 |
 | Raindance | 8 秒 | 328 | 626 |
 | Rumpelstiltskin | 8 秒 | 328 | 626 |
 | Stereo Love Funk | 15 秒 | — | 900（不论几个人） |
+| Thriller Dance | 15 秒 | — | 800 |
+| Tiny Desk | 19 秒 | — | 900（1080p：1350） |
 | Zombie | 12 秒 | 372 | 819 |
 
 ## 二、折算成钱（按最小积分包算）
@@ -50,4 +53,4 @@
 
 ---
 
-[积分成本计算器](calculator.html) · [10 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
+[积分成本计算器](calculator.html) · [13 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
