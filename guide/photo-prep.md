@@ -1,12 +1,12 @@
-# 照片准备：17 个模板共用的硬性要求
+# 照片准备：20 个模板共用的硬性要求
 
-17 个模板的上传表单里，硬性条件几乎一样。先把这些过一遍，能省掉大部分失败重跑。
+20 个模板的上传表单里，硬性条件几乎一样。先把这些过一遍，能省掉大部分失败重跑。
 
 ## 一、硬性要求（不满足会被拒或出废片）
 
 | 要求 | 说明 |
 |---|---|
-| **一张照片一个人** | 单图模板（Bulin 47、Rumpelstiltskin、Raindance、Ozil Goal、Thriller Dance、Toc Toc、WYW My Sweetie、Dime Dime Baby）一张照片只能有一个人；合照模板（Hotel Lobby、Migos、Zombie）每人一张，或提供一张双人合照；Grease Dance、Tiny Desk、Gangnam Style 每人一张 |
+| **一张照片一个人** | 单图模板（Bulin 47、Rumpelstiltskin、Raindance、Ozil Goal、Thriller Dance、Toc Toc、WYW My Sweetie、Dime Dime Baby、Baby Wow、Christmas、Single Ladies Dog Dance）一张照片只能有一个人；合照模板（Hotel Lobby、Migos、Zombie）每人一张，或提供一张双人合照；Grease Dance、Tiny Desk、Gangnam Style 每人一张 |
 | **正脸、脸完全可见** | 侧脸、低头、口罩、墨镜、手挡脸都会影响结果 |
 | **成年人** | 页面要求上传者确认照片里的人是成年人 |
 | **不是公众人物** | 名人照片不能用来跑 |
@@ -37,6 +37,9 @@
 | Toc Toc | 最好全身照，脸、手和鞋都要露出来；身体被截掉的部分模型没法保留 |
 | WYW My Sweetie | 自定义场景要从低处、贴近地面拍 |
 | Gangnam Style | 3 张，左中右各一人；近景很大，脸清楚比全身更重要 |
+| Christmas | 精灵舞要成年人正脸照；圣诞老人监控只要一张没有人的房间照片，从高处一角往下拍 |
+| Single Ladies Dog Dance | 宠物要拍到脸、耳朵和身体；也可以传自己的照片跳主舞 |
+| Baby Wow | 和 Dime Dime Baby 一样：人或宠物都行，最好全身 |
 | Dime Dime Baby | 人或宠物都行，最好全身；传宠物照时确认选的是「宠物或角色」 |
 | Grease Dance | 全景镜头，人在画面里偏小，脸一定要清楚；自定义场景要平视、前面有空地 |
 
@@ -60,4 +63,4 @@
 
 ---
 
-[17 个模板一览](../templates/index.md) · [积分与成本](../credits.md) · [回到首页](../README.md)
+[20 个模板一览](../templates/index.md) · [积分与成本](../credits.md) · [回到首页](../README.md)

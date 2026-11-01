@@ -1,11 +1,13 @@
-# 17 个模板一览
+# 20 个模板一览
 
-同一个积分余额在 17 个模板里通用。下表按各页面标注整理，最后核对于 2026-10-18；10 月 31 日新增的 7 个模板（Dime Dime Baby、Gangnam Style、Grease Dance、Thriller Dance、Tiny Desk、Toc Toc、WYW My Sweetie）核对于 2026-10-31。
+同一个积分余额在 20 个模板里通用。下表按各页面标注整理，最后核对于 2026-10-18；10 月 31 日新增的 7 个模板（Dime Dime Baby、Gangnam Style、Grease Dance、Thriller Dance、Tiny Desk、Toc Toc、WYW My Sweetie）核对于 2026-10-31；Baby Wow、Christmas、Single Ladies Dog Dance 核对于 2026-11-01。
 
 | 模板 | 输入 | 时长 | 画幅 | 480p | 720p |
 |---|---|---|---|---|---|
+| [Baby Wow](baby-wow.md) | 1 张照片（人或宠物） | 8 秒 | 9:16 竖屏 · 720p | — | 600 积分 |
 | [Bulin 47](bulin-47.md) | 1 张照片 | 15 秒 | 9:16 竖屏 / 16:9 横屏 | 465 积分 | 1023 积分 |
 | [Burning Bridges](burning-bridges.md) | 1 张照片 | 15 秒 | 16:9 横屏 | 465 积分 | 1023 积分 |
+| [Christmas](christmas.md) | 1 张照片（精灵舞）或 1 张空房间照片（圣诞老人监控） | 15 秒 / 10 秒 | 9:16 竖屏 · 720p | — | 800 积分（精灵舞）/ 600 积分（监控） |
 | [Crazy Frog](crazy-frog.md) | 1 张照片 | 15 秒 | 16:9（默认）/ 9:16 | — | 650 积分 |
 | [Dime Dime Baby](dime-dime-baby.md) | 1 张照片（人或宠物） | 8 秒 | 9:16 竖屏 · 720p | — | 550 积分 |
 | [Gangnam Style](gangnam-style.md) | 3 张照片 | 15 秒 / 19 秒 | 16:9 横屏 · 720p | — | 900 积分（15 秒）/ 1350 积分（19 秒） |
@@ -15,6 +17,7 @@
 | [Ozil Goal](ozil-goal.md) | 1 张照片 | 15 秒 | 9:16 竖屏 · 720p | — | 800 积分 |
 | [Raindance](raindance.md) | 1 或 2 张照片 | 8 秒 | 9:16 竖屏 | 328 积分 | 626 积分 |
 | [Rumpelstiltskin](rumpelstiltskin.md) | 1 张照片 | 8 秒 | 9:16 竖屏 | 328 积分 | 626 积分 |
+| [Single Ladies Dog Dance](single-ladies-dog.md) | 1 张照片（宠物或人） | 15 秒 | 9:16 竖屏 · 720p | — | 800 积分 |
 | [Stereo Love Funk](stereo-love-funk.md) | 每人一张照片，最多 9 张；或一张合照 | 15 秒 | 9:16 竖屏 / 16:9 横屏 | — | 900 积分（不论几个人，都是这个价） |
 | [Thriller Dance](thriller-dance.md) | 1 张照片 | 15 秒 | 9:16 竖屏 · 720p | — | 800 积分 |
 | [Tiny Desk](tiny-desk.md) | 1–5 张照片（只有主唱必填） | 19 秒 | 9:16 竖屏 | — | 900 积分（1080p 1350 积分） |
@@ -29,7 +32,8 @@
 - **要多人**：Stereo Love Funk 最多 9 个人，900 积分一口价；Tiny Desk 最多 5 个人，空位由 AI 乐手补；Gangnam Style 固定 3 个人，每人一段独唱
 - **双人舞**：Grease Dance 两人全身同框，只有一张照片也行（AI 舞伴跳另一个角色）
 - **万圣节**：Thriller Dance 领舞丧尸群，Zombie 两人的丧尸爱情故事
-- **宠物也能跳**：Dime Dime Baby 可以选「宠物或角色」，Bulin 47、Burning Bridges 也接受宠物照
+- **圣诞**：Christmas 一张照片变跳舞的精灵；或者只拍一张空房间，让家庭监控「拍到」圣诞老人，孩子不用出镜
+- **宠物也能跳**：Single Ladies Dog Dance 让宠物站 C 位；Dime Dime Baby、Baby Wow 可以选「宠物或角色」，Bulin 47、Burning Bridges 也接受宠物照
 - **要横屏**：Burning Bridges、Gangnam Style 固定 16:9；Bulin 47、Crazy Frog、Stereo Love Funk、Zombie 可选横竖
 
 ---

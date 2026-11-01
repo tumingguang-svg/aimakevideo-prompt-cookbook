@@ -40,7 +40,7 @@
 ## 相关模板
 
 - [Toc Toc](toc-toc.md) —— 10 秒单人舞，可选房间
-- [Bulin 47](bulin-47.md) —— 单人、宠物、角色都能用
+- [Baby Wow](baby-wow.md) —— 同一个派对入场梗，按你搜的名字选
 - [Burning Bridges](burning-bridges.md) —— 吊灯派对场景，宠物也行
 
 ---
