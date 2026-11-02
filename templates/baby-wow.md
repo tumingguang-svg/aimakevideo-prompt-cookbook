@@ -25,7 +25,7 @@
 
 ## Baby Wow 和 Dime Dime Baby 是什么关系
 
-是同一个梗：歌名写作 BbY WOW，所以会看到 Baby Wow、BBY WOW、bby wow 几种写法；副歌最上口的一句是 "dime dime baby"（西班牙语「告诉我，告诉我，宝贝」），所以很多人也这样搜。网站上这两个页面都做同一个派对入场画面，[Dime Dime Baby](dime-dime-baby.md) 是 550 积分，这里是 600 积分，按你习惯搜的名字选就行。
+是同一个梗：歌名写作 BbY WOW，所以会看到 Baby Wow、BBY WOW、bby wow 几种写法；副歌最上口的一句是 "dime dime baby"（西班牙语「告诉我，告诉我，宝贝」），所以很多人也这样搜。网站上这两个页面都做同一个派对入场画面，[Dime Dime Baby](dime-dime-baby.md) 和这里都是 600 积分，按你习惯搜的名字选就行。
 
 ## 换得掉什么，换不掉什么
 

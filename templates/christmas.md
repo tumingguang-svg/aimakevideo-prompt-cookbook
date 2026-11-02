@@ -50,6 +50,7 @@
 
 ## 相关模板
 
+- [New Year](new-year.md) —— 站上巨大的 2027、午夜倒数或农历拜年
 - [Thriller Dance](thriller-dance.md) —— 万圣节，一张照片领舞丧尸群
 - [Zombie](zombie.md) —— 万圣节，两张照片的丧尸爱情故事
 - [WYW My Sweetie](wyw-my-sweetie.md) —— 同样可选场景的单人舞

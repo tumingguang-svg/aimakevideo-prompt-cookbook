@@ -2,7 +2,7 @@
 
 > 懒人版：打开 [积分成本计算器](calculator.html)，选模板和档位直接出价。
 
-所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**；积分包档位和 10 月 31 日新增的 7 个模板核对于 2026-10-31，Baby Wow、Christmas、Single Ladies Dog Dance 核对于 2026-11-01。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
+所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**；积分包档位和 10 月 31 日新增的 7 个模板核对于 2026-10-31，Baby Wow、Christmas、Single Ladies Dog Dance 核对于 2026-11-01，New Year 以及 Dime Dime Baby、Gangnam Style 的价格核对于 2026-11-02。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
 
 ## 一、每个模板一条视频要多少积分
 
@@ -13,11 +13,12 @@
 | Burning Bridges | 15 秒 | 465 | 1023 |
 | Christmas | 15 秒（精灵舞）/ 10 秒（圣诞老人监控） | — | 800 / 600 |
 | Crazy Frog | 15 秒 | — | 650 |
-| Dime Dime Baby | 8 秒 | — | 550 |
-| Gangnam Style | 15 秒 / 19 秒 | — | 900 / 1350 |
+| Dime Dime Baby | 8 秒 | — | 600 |
+| Gangnam Style | 15 秒 / 19 秒 | — | 900 / 1400 |
 | Grease Dance | 15 秒 / 23 秒 | — | 800 / 1200 |
 | Hotel Lobby | 10 秒 | 310 | 682 |
 | Migos | 10 秒 | 310 | 682 |
+| New Year | 10 秒 | — | 600 |
 | Ozil Goal | 15 秒 | — | 800 |
 | Raindance | 8 秒 | 328 | 626 |
 | Rumpelstiltskin | 8 秒 | 328 | 626 |
@@ -60,4 +61,4 @@
 
 ---
 
-[积分成本计算器](calculator.html) · [20 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
+[积分成本计算器](calculator.html) · [21 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
