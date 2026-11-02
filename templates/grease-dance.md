@@ -49,6 +49,8 @@
 
 ## 相关模板
 
+- [Coffee Making](coffee-making.md) —— 两个人面无表情的厨房翻车
+- [Hop Hop Hop](hop-hop-hop.md) —— 两个人的错位互换短片
 - [Raindance](raindance.md) —— 独舞或双人，8 秒
 - [Zombie](zombie.md) —— 两张照片的双人故事
 - [Thriller Dance](thriller-dance.md) —— 一张照片领舞丧尸群
