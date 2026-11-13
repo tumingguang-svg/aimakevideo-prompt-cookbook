@@ -2,33 +2,47 @@
 
 > 懒人版：打开 [积分成本计算器](calculator.html)，选模板和档位直接出价。
 
-所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**；积分包档位和 10 月 31 日新增的 7 个模板核对于 2026-10-31，Baby Wow、Christmas、Single Ladies Dog Dance 核对于 2026-11-01，New Year、Coffee Making、Hop Hop Hop 以及 Dime Dime Baby、Gangnam Style 的价格核对于 2026-11-02。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
+所有数据来自各模板页面和定价页，**最后核对于 2026-10-18**；积分包档位和 10 月 31 日新增的 7 个模板核对于 2026-10-31，Baby Wow、Christmas、Single Ladies Dog Dance 核对于 2026-11-01，New Year、Coffee Making、Hop Hop Hop 核对于 2026-11-02，新增的 14 个模板以及 Gangnam Style、Bulin 47 的降价后价格核对于 2026-11-13。价格会变，下单前请看 [定价页](https://aimakevideo.com/pricing)。
 
 ## 一、每个模板一条视频要多少积分
 
 | 模板 | 时长 | 480p | 720p |
 |---|---|---|---|
+| 24K Magic | 10 秒 / 30 秒 | — | 800 / 1900 |
+| 58th Floor | 15 秒 / 30 秒 | — | 900 / 1900 |
 | Baby Wow | 8 秒 | — | 600 |
-| Bulin 47 | 15 秒 | 465 | 1023 |
+| Bicep Heart | 7 秒 | — | 500 |
+| Birds of a Feather | 13 秒 | — | 900 |
+| Bulin 47 | 15 秒 | 395 | 870 |
 | Burning Bridges | 15 秒 | 465 | 1023 |
+| Careless Whisper Car | 11 秒 | — | 800 |
 | Christmas | 15 秒（精灵舞）/ 10 秒（圣诞老人监控） | — | 800 / 600 |
 | Coffee Making | 13 秒 | — | 900 |
 | Crazy Frog | 15 秒 | — | 650 |
 | Dime Dime Baby | 8 秒 | — | 600 |
-| Gangnam Style | 15 秒 / 19 秒 | — | 900 / 1400 |
+| Fancy Cafe | 19 秒 | — | 900 |
+| Funk Loading | 8 秒 | — | 600 |
+| Gangnam Style | 15 秒 / 19 秒 | — | 765 / 1190 |
 | Grease Dance | 15 秒 / 23 秒 | — | 800 / 1200 |
+| Hit the Road Dude | 13 秒 | — | 900 |
 | Hop Hop Hop | 8 秒 | — | 600 |
 | Hotel Lobby | 10 秒 | 310 | 682 |
+| I Love The Smiths | 15 秒 | — | 900 |
+| Ice Ice Baby | 11 秒 | — | 800 |
 | Migos | 10 秒 | 310 | 682 |
+| Monkey Eating Apple | 9 秒 | — | 650 |
 | New Year | 10 秒 | — | 600 |
 | Ozil Goal | 15 秒 | — | 800 |
 | Raindance | 8 秒 | 328 | 626 |
 | Rumpelstiltskin | 8 秒 | 328 | 626 |
+| Schooling Seniors | 9 秒 | — | 650 |
 | Single Ladies Dog Dance | 15 秒 | — | 800 |
 | Stereo Love Funk | 15 秒 | — | 900（不论几个人） |
+| Stormzy Shut Up | 10 秒 | — | 700 |
 | Thriller Dance | 15 秒 | — | 800 |
 | Tiny Desk | 19 秒 | — | 900（1080p：1350） |
 | Toc Toc | 10 秒 | — | 600 |
+| Vossi Bop | 11 秒 | — | 800 |
 | WYW My Sweetie | 19 秒 | — | 900 |
 | Zombie | 12 秒 | 372 | 819 |
 
@@ -38,9 +52,9 @@
 
 | 档位 | 积分 | 上限成本 |
 |---|---|---|
-| 入门 480p（310–372 积分） | 310–372 | ≈ $3.4–4.1 |
+| 入门 480p / 短片 720p（310–500 积分） | 310–500 | ≈ $3.4–5.5 |
 | 标准 720p（626–682 积分） | 626–682 | ≈ $6.9–7.5 |
-| 长片 720p（800–1023 积分） | 800–1023 | ≈ $8.8–11.3 |
+| 长片 720p（700–1023 积分） | 700–1023 | ≈ $7.7–11.3 |
 | 群舞 720p（900 积分） | 900 | ≈ $9.9 |
 
 ## 三、积分包的档位
@@ -56,11 +70,11 @@
 
 ## 四、几个容易踩的点
 
-1. **注册赠的 10 积分不够跑任何模板。** 站点 FAQ 的口径是"10 积分 ≈ 一条 5 秒 480p 的入门模型视频"，而这里最便宜的模板也要 310 积分。想试模板，得先充积分。
+1. **注册赠的 10 积分不够跑任何模板。** 站点 FAQ 的口径是"10 积分 ≈ 一条 5 秒 480p 的入门模型视频"，而这里最便宜的模板也要 310 积分（720p 最低 500 积分）。想试模板，得先充积分。
 2. **失败会退。** 多个模板页面写明"生成失败退回积分"，所以重跑不必太心疼。
 3. **先 480p 再 720p。** 同一条视频 720p 是 480p 的 1.9–2.2 倍价格（1023 ÷ 465 = 2.20、682 ÷ 310 = 2.20、626 ÷ 328 = 1.91、819 ÷ 372 = 2.20），先低后高最省。
 4. **积分有效期 180 天。** 不自动续费，用完再买。
 
 ---
 
-[积分成本计算器](calculator.html) · [23 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
+[积分成本计算器](calculator.html) · [37 个模板一览](templates/index.md) · [照片准备](guide/photo-prep.md) · [回到首页](README.md)
