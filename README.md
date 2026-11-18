@@ -1,6 +1,6 @@
 # aiMakeVideo Prompt Cookbook
 
-37 个 AI 视频模板的真实参数、积分成本，以及 12 条可以直接复制的提示词。全部取自 [aiMakeVideo](https://aimakevideo.com) 线上页面，不是二手整理。
+45 个 AI 视频模板的真实参数、积分成本，以及 12 条可以直接复制的提示词。全部取自 [aiMakeVideo](https://aimakevideo.com) 线上页面，不是二手整理。
 
 > 这个仓库解决的是一件事：**跑一条 AI 视频之前，你能不能在 30 秒内查清楚"要几张照片、多久、多少钱、提示词怎么写"。**
 
@@ -9,7 +9,7 @@
 | 内容 | 说明 |
 |---|---|
 | [积分成本计算器](calculator.html) | 选模板 / 档位 / 积分包，实时算出单条美元价、整包能跑几条 |
-| [37 个模板一览](templates/index.md) | 输入、时长、画幅、480p/720p 各多少积分，一张表看完 |
+| [45 个模板一览](templates/index.md) | 输入、时长、画幅、480p/720p 各多少积分，一张表看完 |
 | [提示词写法拆解](guide/prompt-patterns.md) | 把 showcase 里的真实提示词拆成 8 段结构 + 2 个可套用的骨架 |
 | [提示词积木](guide/prompt-blocks.md) | 7 类可复用片段，每块都标了原文出处，可以自由拼 |
 | [术语表](glossary.md) | 积分、画幅、首尾帧、模板与模型……最容易搞混的十几个词 |
@@ -18,25 +18,30 @@
 | [文生视频提示词](showcase/text-to-video.md) | 6 条真实示例，最长 215 词 |
 | [文生图提示词](showcase/text-to-image.md) | 6 条真实示例，全部 18–23 词 |
 
-## 37 个模板速查
+## 45 个模板速查
 
 | 模板 | 输入 | 时长 | 480p | 720p |
 |---|---|---|---|---|
 | [24K Magic](templates/24k-magic.md) | 1–2 张照片 | 10 / 30 秒 | — | 800 / 1900 |
 | [58th Floor](templates/58th-floor.md) | 1–2 张照片 | 15 / 30 秒 | — | 900 / 1900 |
 | [Baby Wow](templates/baby-wow.md) | 1 张照片（人或宠物） | 8 秒 | — | 600 |
+| [Babydoll Dance](templates/babydoll-dance.md) | 1–2 张照片 | 15 秒 | — | 800 |
 | [Bicep Heart](templates/bicep-heart.md) | 1–2 张照片 | 7 秒 | — | 500 |
 | [Birds of a Feather](templates/birds-of-a-feather.md) | 1 张照片 | 13 秒 | — | 900 |
 | [Bulin 47](templates/bulin-47.md) | 1 张照片 | 15 秒 | 395 | 870 |
 | [Burning Bridges](templates/burning-bridges.md) | 1 张照片 | 15 秒 | 465 | 1023 |
 | [Careless Whisper Car](templates/careless-whisper-car.md) | 1–3 张照片 | 11 秒 | — | 800 |
 | [Christmas](templates/christmas.md) | 1 张照片 | 15 / 10 秒 | — | 800 / 600 |
+| [Christmas Dance](templates/christmas-dance.md) | 1–2 张照片 | 15 秒 | — | 900 |
 | [Coffee Making](templates/coffee-making.md) | 1–2 张照片 | 13 秒 | — | 900 |
 | [Crazy Frog](templates/crazy-frog.md) | 1 张照片 | 15 秒 | — | 650 |
 | [Dime Dime Baby](templates/dime-dime-baby.md) | 1 张照片（人或宠物） | 8 秒 | — | 600 |
+| [Dog Grooming Time](templates/dog-grooming-time.md) | 1 张宠物照 | 10 秒 | — | 700 |
 | [Fancy Cafe](templates/fancy-cafe.md) | 1–2 张照片 | 19 秒 | — | 900 |
 | [Funk Loading](templates/funk-loading.md) | 1 张照片 | 8 秒 | — | 600 |
 | [Gangnam Style](templates/gangnam-style.md) | 3 张照片 | 15 / 19 秒 | — | 765 / 1190 |
+| [Gangsta's Paradise](templates/gangstas-paradise.md) | 1–2 张照片 | 15 / 30 秒 | — | 900 / 1900 |
+| [Give It All](templates/give-it-all.md) | 1 张照片 | 15 秒 | 600 | 1050 |
 | [Grease Dance](templates/grease-dance.md) | 1–2 张照片 | 15 / 23 秒 | — | 800 / 1200 |
 | [Hit the Road Dude](templates/hit-the-road-dude.md) | 1 张照片（人或宠物） | 13 秒 | — | 900 |
 | [Hop Hop Hop](templates/hop-hop-hop.md) | 1–2 张照片 | 8 秒 | — | 600 |
@@ -45,7 +50,9 @@
 | [Ice Ice Baby](templates/ice-ice-baby.md) | 1–2 张照片 | 11 秒 | — | 800 |
 | [Migos](templates/migos.md) | 2 张照片 | 10 秒 | 310 | 682 |
 | [Monkey Eating Apple](templates/monkey-eating-apple.md) | 1 张照片 | 9 秒 | — | 650 |
+| [My Moon My Man](templates/my-moon-my-man.md) | 1 张两人合照 | 10 秒 | — | 395 |
 | [New Year](templates/new-year.md) | 1–2 张照片 | 10 秒 | — | 600 |
+| [No Scrubs](templates/no-scrubs.md) | 1–3 张照片 | 15 秒 | — | 900 |
 | [Ozil Goal](templates/ozil-goal.md) | 1 张照片 | 15 秒 | — | 800 |
 | [Raindance](templates/raindance.md) | 1–2 张照片 | 8 秒 | 328 | 626 |
 | [Rumpelstiltskin](templates/rumpelstiltskin.md) | 1 张照片 | 8 秒 | 328 | 626 |
@@ -57,6 +64,7 @@
 | [Tiny Desk](templates/tiny-desk.md) | 1–5 张照片 | 19 秒 | — | 900（1080p 1350） |
 | [Toc Toc](templates/toc-toc.md) | 1 张照片 | 10 秒 | — | 600 |
 | [Vossi Bop](templates/vossi-bop.md) | 1 张照片 | 11 秒 | — | 800 |
+| [Wassup in a Minute](templates/wassup-in-a-minute.md) | 1–3 张照片或合照 | 15 秒 | 395 | 870 |
 | [WYW My Sweetie](templates/wyw-my-sweetie.md) | 1 张照片 | 19 秒 | — | 900 |
 | [Zombie](templates/zombie.md) | 2 张照片 | 12 秒 | 372 | 819 |
 
@@ -72,11 +80,11 @@
 
 1. **showcase 里的提示词长度差 8 倍**：动作序列型 189–215 词，风格描述型 26–44 词，都够用。词数取决于你要"一段戏"还是"一张会动的画"。
 2. **6 条文生图提示词每一条都带一个 beauty 系定语**（beauty portrait / wabi-sabi beauty / beauty campaign / beauty study / jewelry beauty advertising / lifestyle beauty photography）。
-3. **注册赠的 10 积分跑不了任何模板**：最便宜的模板也要 310 积分。免费额度是给 studio 里入门模型用的。
+3. **注册赠的 10 积分跑不了任何视频模板**：最便宜的视频模板也要 310 积分。唯一的例外是 My Moon My Man 页里的耶稣油画，那是一张图，Standard 只要 9 积分。
 
 ## 数据时效
 
-所有参数、积分、提示词最后核对于 **2026-10-18**；10 月 31 日新增的 7 个模板核对于 **2026-10-31**，Baby Wow、Christmas、Single Ladies Dog Dance 核对于 **2026-11-01**，New Year、Coffee Making、Hop Hop Hop 核对于 **2026-11-02**，新增的 14 个模板以及 Gangnam Style、Bulin 47 的降价后价格核对于 **2026-11-13**。价格和功能会变，下单前以 [定价页](https://aimakevideo.com/pricing) 为准。发现过期，欢迎提 issue。
+所有参数、积分、提示词最后核对于 **2026-10-18**；10 月 31 日新增的 7 个模板核对于 **2026-10-31**，Baby Wow、Christmas、Single Ladies Dog Dance 核对于 **2026-11-01**，New Year、Coffee Making、Hop Hop Hop 核对于 **2026-11-02**，新增的 14 个模板以及 Gangnam Style、Bulin 47 的降价后价格核对于 **2026-11-13**，Babydoll Dance、Christmas Dance、Dog Grooming Time、Gangsta's Paradise、Give It All、My Moon My Man、No Scrubs、Wassup in a Minute 这 8 个核对于 **2026-11-18**。价格和功能会变，下单前以 [定价页](https://aimakevideo.com/pricing) 为准。发现过期，欢迎提 issue。
 
 ## 许可
 
